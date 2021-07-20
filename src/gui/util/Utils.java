@@ -28,7 +28,8 @@ public class Utils {
 			return null;
 		}
 	}
-
+	
+	
 	public static Double tryParseToDouble(String str) {
 		try {
 			return Double.parseDouble(str);
